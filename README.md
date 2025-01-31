@@ -1,8 +1,5 @@
 # Customer Churn Analysis & Prediction
 
-![Power BI Dashboard Preview](Dashboard.png)  
-
-
 ## 📌 Overview
 This project analyzes customer churn data to uncover trends and predict customer attrition using a machine learning model. The workflow spans **SQL data processing**, **Power BI visualization**, and **Random Forest classification**. Key insights are delivered through an interactive dashboard, and the model predicts churn with actionable accuracy.
 
